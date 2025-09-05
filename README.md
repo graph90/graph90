@@ -12,7 +12,7 @@ Enthusiast in Linux, FreeBSD, MINIX, and programming languages.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 - **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain  
 - **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – x86_64 assembly engine demo  
 - **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics  
