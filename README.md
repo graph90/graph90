@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Nathaniel Armogan (graph90)** — a Python, C++, and Linux developer passionate about AI tools, system-level software, and game development.  
+I'm **Nathaniel Armogan (graph90)** a Python, C++, and Linux developer passionate about AI tools, system-level software, and game development.  
 Enthusiast in Linux, FreeBSD, MINIX, and programming languages.
 
 ---
