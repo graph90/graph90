@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Nathaniel Armogan (graph90)** — a Software Developer and AI Engineer passionate about **AI tools, system-level software, quantum computing, and game development**.  
+I'm **Nathaniel Armogan (graph90)** a Software Developer and AI Engineer passionate about **AI tools, system-level software, quantum computing, and game development**.  
 I build projects independently that are actively used and adopted by developers worldwide.
 
 ---
