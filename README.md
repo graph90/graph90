@@ -14,7 +14,7 @@ Enthusiast in Linux, FreeBSD, MINIX, and programming languages.
 
 ### Featured Projects
 - **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain  
-- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – x86_64 assembly engine demo  
+- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – x86_64 assembly engine  
 - **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics  
 - **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)** – Qiskit & Pennylane experiments  
 - **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Fetch IMDb IDs to fix Jellyfin metadata  
