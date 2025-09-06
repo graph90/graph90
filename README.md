@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm **Nathaniel Armogan (graph90)** a Python, C++, and Linux developer passionate about AI tools, system-level software, and game development.  
-Enthusiast in Linux, FreeBSD, MINIX, and programming languages.
+I'm **Nathaniel Armogan (graph90)** — a Software Developer and AI Engineer passionate about **AI tools, system-level software, quantum computing, and game development**.  
+I build projects independently that are actively used and adopted by developers worldwide.
 
 ---
 
@@ -12,12 +12,12 @@ Enthusiast in Linux, FreeBSD, MINIX, and programming languages.
 
 ---
 
-### Featured Projects
-- **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain  
-- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – x86_64 assembly engine  
-- **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics  
+### 🚀 Featured Projects
+- **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain (**81+ clones**)  
+- **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics (**57+ clones**)  
+- **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Fetch IMDb IDs to fix Jellyfin metadata (**50+ clones**)  
+- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly demo with dynamic binaries (**40+ clones on launch day**)  
 - **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)** – Qiskit & Pennylane experiments  
-- **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Fetch IMDb IDs to fix Jellyfin metadata  
 - **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advice using basic strategy & card counting  
 
 ---
@@ -31,4 +31,4 @@ Enthusiast in Linux, FreeBSD, MINIX, and programming languages.
 ---
 
 ### ⚡ Fun Fact
-I love building **private, self-hosted tools** and experimenting with **low-level assembly and quantum computing**, all while keeping things playful with Roblox games.  
+I build **independently-developed projects** that are adopted worldwide — from **self-hosted AI tools** to **low-level assembly engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
