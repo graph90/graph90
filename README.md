@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="wave.gif" width="30px">
 
 I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate about **AI tools, system-level software, quantum computing, and game development**.  
 I build projects independently that are actively used and adopted by developers worldwide.
