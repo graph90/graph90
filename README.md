@@ -14,8 +14,12 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FreeBSD-ED1C24?style=for-the-badge&logo=freebsd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-000?style=for-the-badge&logo=assembly&logoColor=white"/>
 </p>
+
 
 
 ### <img src="assets/rocket.gif" width="25px"> Featured Projects
