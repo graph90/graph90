@@ -9,7 +9,7 @@ I build projects independently that are actively used and adopted by developers 
 - **Languages:** Python, C++, Java, C, Bash, Lua  
 - **Platforms:** Linux, FreeBSD, MINIX  
 - **Interests:** AI, Quantum Computing, Game Development (Roblox), System Programming  
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
