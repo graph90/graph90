@@ -25,7 +25,6 @@ I build projects independently that are actively used and adopted by developers 
 - **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)** – Qiskit & Pennylane experiments  
 - **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advice using basic strategy & card counting  
 
----
 
 ### 🌐 Links
 <p align="center">
@@ -42,7 +41,6 @@ I build projects independently that are actively used and adopted by developers 
     <img src="https://img.shields.io/badge/Roblox-FF4757?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
 </p>
----
 
 ### ⚡ Fun Fact
 I build **independently-developed projects** that are adopted worldwide from **self-hosted AI tools** to **low-level assembly engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
