@@ -26,10 +26,10 @@ I build projects independently that are actively used and adopted by developers 
 ---
 
 ### 🌐 Links
-- Portfolio: [graph90.github.io](https://graph90.github.io/)  
-- LinkedIn: [in/nathaniel-armogan-983556171](https://www.linkedin.com/in/nathaniel-armogan-983556171)  
+- Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://graph90.github.io/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-armogan-983556171)
 - Roblox Game: [Parkour vs Zombies Survival Chaos](https://www.roblox.com/games/95249682605742/Parkour-vs-Zombies-Survival-Chaos)  
-- HackerRank: [nathaniel_armog1](https://www.hackerrank.com/nathaniel_armog1)  
+- HackerRank: [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nathaniel_armog1)
 
 ---
 
