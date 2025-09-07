@@ -8,9 +8,12 @@ I build projects independently that are actively used and adopted by developers 
 ### 💻 Skills & Technologies
 - **Languages:** Python, C++, Java, C, Bash, Lua  
 - **Platforms:** Linux, FreeBSD, MINIX  
-- **Interests:** AI, Quantum Computing, Game Development (Roblox), System Programming  
+- **Interests:** AI, Quantum Computing, Game Development (Roblox), System Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
----
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### 🚀 Featured Projects
 - **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly demo with dynamic binaries (**40+ clones on launch day**)  
