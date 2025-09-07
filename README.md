@@ -37,3 +37,4 @@ I build projects independently that are actively used and adopted by developers 
 I build **independently-developed projects** that are adopted worldwide from **self-hosted AI tools** to **low-level assembly engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
 
 ![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=graph90&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graph90&layout=compact&theme=radical)
