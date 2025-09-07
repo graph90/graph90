@@ -45,7 +45,7 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 
 ### <img src="assets/bolt.gif" width="25px"> Fun Fact
 
-I build **independently-developed projects** that are adopted worldwide from **self-hosted AI tools** to **low-level assembly engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
+I build **independently-developed projects** that are adopted worldwide from **self-hosted AI tools** to **low-level assembly metamorphic engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph90&layout=compact&theme=radical"/>
