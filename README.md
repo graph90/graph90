@@ -30,16 +30,16 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 ### <img src="assets/link.gif" width="25px">  Links
 <p align="center">
   <a href="https://graph90.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/nathaniel-armogan-983556171">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.hackerrank.com/nathaniel_armog1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://www.roblox.com/games/95249682605742/Parkour-vs-Zombies-Survival-Chaos">
-    <img src="https://img.shields.io/badge/Roblox-FF4757?style=for-the-badge&logo=roblox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Roblox%20Game-FF4757?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Game"/>
   </a>
 </p>
 
