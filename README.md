@@ -31,4 +31,4 @@ I build projects independently that are actively used and adopted by developers 
 ---
 
 ### ⚡ Fun Fact
-I build **independently-developed projects** that are adopted worldwide — from **self-hosted AI tools** to **low-level assembly engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
+I build **independently-developed projects** that are adopted worldwide from **self-hosted AI tools** to **low-level assembly engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
