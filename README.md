@@ -10,9 +10,11 @@ I build projects independently that are actively used and adopted by developers 
 - **Platforms:** Linux, FreeBSD, MINIX  
 - **Interests:** AI, Quantum Computing, Game Development (Roblox), System Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 
 ### 🚀 Featured Projects
@@ -29,11 +31,15 @@ I build projects independently that are actively used and adopted by developers 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://graph90.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-armogan-983556171)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nathaniel_armog1)
-- Roblox Game: [Parkour vs Zombies Survival Chaos](https://www.roblox.com/games/95249682605742/Parkour-vs-Zombies-Survival-Chaos)  
+[![Roblox Game](https://img.shields.io/badge/Roblox-FF4757?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/games/95249682605742/Parkour-vs-Zombies-Survival-Chaos)
+
 ---
 
 ### ⚡ Fun Fact
 I build **independently-developed projects** that are adopted worldwide from **self-hosted AI tools** to **low-level assembly engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
 
-![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=graph90&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graph90&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=graph90&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph90&layout=compact&theme=radical"/>
+</p>
+
