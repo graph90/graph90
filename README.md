@@ -25,7 +25,7 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 - **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advice using basic strategy & card counting  
 
 
-### <img src="assets/link.gif" width="25px"> Links
+### <img src="assets/link.gif" width="25px">  Links
 <p align="center">
   <a href="https://graph90.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
