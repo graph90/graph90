@@ -13,10 +13,10 @@ I build projects independently that are actively used and adopted by developers 
 ---
 
 ### 🚀 Featured Projects
+- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly demo with dynamic binaries (**40+ clones on launch day**)  
 - **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain (**81+ clones**)  
 - **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics (**57+ clones**)  
 - **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Fetch IMDb IDs to fix Jellyfin metadata (**50+ clones**)  
-- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly demo with dynamic binaries (**40+ clones on launch day**)  
 - **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)** – Qiskit & Pennylane experiments  
 - **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advice using basic strategy & card counting  
 
