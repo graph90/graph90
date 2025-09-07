@@ -28,11 +28,20 @@ I build projects independently that are actively used and adopted by developers 
 ---
 
 ### 🌐 Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://graph90.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaniel-armogan-983556171)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nathaniel_armog1)
-[![Roblox Game](https://img.shields.io/badge/Roblox-FF4757?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/games/95249682605742/Parkour-vs-Zombies-Survival-Chaos)
-
+<p align="center">
+  <a href="https://graph90.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathaniel-armogan-983556171">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/nathaniel_armog1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.roblox.com/games/95249682605742/Parkour-vs-Zombies-Survival-Chaos">
+    <img src="https://img.shields.io/badge/Roblox-FF4757?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### ⚡ Fun Fact
