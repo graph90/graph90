@@ -4,7 +4,7 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 
 ---
 
-### <img src="assets/monkey.gif" width="25px"> Skills & Technologies
+### <img src="assets/monkey.gif" width="50px"> Skills & Technologies
 - **Languages:** Python, C++, Java, C, Bash, Lua  
 - **Platforms:** Linux, FreeBSD, MINIX  
 - **Interests:** AI, Quantum Computing, Game Development (Roblox), System Programming
