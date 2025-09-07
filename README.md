@@ -16,7 +16,7 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 </p>
 
 
-### 🚀 Featured Projects
+### <img src="assets/rocket.gif" width="25px"> Featured Projects
 - **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly demo with dynamic binaries (**40+ clones on launch day**)  
 - **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain (**81+ clones**)  
 - **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics (**57+ clones**)  
