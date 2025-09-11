@@ -21,8 +21,8 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 </p>
 
 ## Quantum Computing Projects
-- Qiskit & PennyLane experiments with educational Jupyter notebooks and tutorials.
-- Algorithms implemented: Deutsch–Jozsa, Bernstein–Vazirani, Grover’s, Quantum SVM.
+- Qiskit & PennyLane experiments with educational Jupyter notebooks and tutorials
+- Algorithms implemented: Deutsch–Jozsa, Bernstein–Vazirani, Grover’s, Quantum SVM
 - Shared publicly on GitHub to support learners and the quantum computing community: **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)**
 
 ### <img src="assets/rocket.gif" width="25px"> Featured Projects
