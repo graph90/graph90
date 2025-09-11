@@ -20,7 +20,10 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
   <img src="https://img.shields.io/badge/Assembly-000?style=for-the-badge&logo=assembly&logoColor=white"/>
 </p>
 
-
+## Quantum Computing Projects
+- Qiskit & PennyLane experiments with educational Jupyter notebooks and tutorials.
+- Algorithms implemented: Deutsch–Jozsa, Bernstein–Vazirani, Grover’s, Quantum SVM.
+- Shared publicly on GitHub to support learners and the quantum computing community: **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)**
 
 ### <img src="assets/rocket.gif" width="25px"> Featured Projects
 - **[i2p-ubuntu-quicksetup](https://github.com/graph90/i2p-ubuntu-quicksetup)** – Easy one-command installer for I2P on Ubuntu (**36+ clones on launch day!**)  
@@ -28,7 +31,6 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 - **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain (**81+ clones**)  
 - **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics (**57+ clones**)  
 - **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Fetch IMDb IDs to fix Jellyfin metadata (**50+ clones**)  
-- **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)** – Qiskit & Pennylane experiments  
 - **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advice using basic strategy & card counting  
 
 
