@@ -28,7 +28,7 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate abou
 ### <img src="assets/rocket.gif" width="25px"> Featured Projects
 - **[i2p-ubuntu-quicksetup](https://github.com/graph90/i2p-ubuntu-quicksetup)** – Easy one-command installer for I2P on Ubuntu (**36+ clones on launch day!**)  
 - **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly demo with dynamic binaries (**55+ clones**)  
-- **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain (**81+ clones**)  
+- **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain (**85+ clones**)  
 - **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics (**57+ clones**)  
 - **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Fetch IMDb IDs to fix Jellyfin metadata (**50+ clones**)  
 - **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advice using basic strategy & card counting  
