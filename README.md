@@ -1,6 +1,6 @@
 ## Hi there <img src="assets/wave.gif" width="30px">
 
-I'm **Nathaniel (graph90)** a Software Developer and AI Engineer passionate about **AI tools, system-level software, quantum computing, and game development**.
+I'm **Nathaniel (graph90)** a Software Developer and AI Developer passionate about **AI tools, system-level software, quantum computing, and game development**.
 
 ---
 
