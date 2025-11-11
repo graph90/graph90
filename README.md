@@ -26,11 +26,11 @@ I'm **Nathaniel (graph90)**, a Software Developer building **AI tools, system-le
 - Public notebook collection: **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)**
 
 ### <img src="assets/rocket.gif" width="25px"> Featured Projects
-- **[i2p-ubuntu-quicksetup](https://github.com/graph90/i2p-ubuntu-quicksetup)** – One-command installer for I2P on Ubuntu  
-- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly metamorphic code engine  
-- **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted AI assistant using Flask and LangChain  
-- **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Live Bitcoin analytics dashboard  
-- **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Tool to fetch accurate IMDb IDs for Jellyfin  
+- **[i2p-ubuntu-quicksetup](https://github.com/graph90/i2p-ubuntu-quicksetup)** – One-command installer for I2P on Ubuntu (**36+ clones on launch day!**)  
+- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly metamorphic code engine (**55+ clones first 2 days**)  
+- **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted AI assistant using Flask and LangChain (**85+ clones first week**) 
+- **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Live Bitcoin analytics dashboard (**57+ clones first two days**)  
+- **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Tool to fetch accurate IMDb IDs for Jellyfin (**50+ clones first day**)  
 - **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advisor  
 
 ### <img src="assets/link.gif" width="25px"> Links
