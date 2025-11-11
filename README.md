@@ -51,7 +51,7 @@ I'm **Nathaniel (graph90)**, a Software Developer building **AI tools, system-le
 
 ### <img src="assets/bolt.gif" width="25px"> Fun Fact
 
-I build **independent projects** ranging from **self-hosted AI tools** to **metamorphic assembly engines** and **quantum computing experiments**, while keeping things playful with Roblox games.  
+I build **independent projects** ranging from **self-hosted AI tools** to **metamorphic assembly engines** and **quantum computing experiments** 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph90&layout=compact&theme=radical"/>
