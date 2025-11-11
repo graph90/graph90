@@ -1,10 +1,10 @@
 ## Hi there <img src="assets/wave.gif" width="30px">
 
-I'm **Nathaniel (graph90)** a Software Developer and AI Developer passionate about **AI tools, system-level software, quantum computing, and game development**.
+I'm **Nathaniel (graph90)**, a Software Developer building **AI tools, system-level software, quantum experiments, and Roblox games**.
 
 ---
 
-###  Skills & Technologies 
+### Skills & Technologies
 <img src="assets/monkey.gif" width="200px">
 
 - **Languages:** Python, C++, Java, C, Bash, Lua  
@@ -21,20 +21,19 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Developer passionate abo
 </p>
 
 ## Quantum Computing Projects
-- Qiskit & PennyLane experiments with educational Jupyter notebooks and tutorials
-- Algorithms implemented: Deutsch–Jozsa, Bernstein–Vazirani, Grover’s, Quantum SVM
-- Shared publicly on GitHub to support learners and the quantum computing community: **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)**
+- Qiskit and PennyLane experiments with educational Jupyter notebooks and tutorials  
+- Algorithms implemented: Deutsch–Jozsa, Bernstein–Vazirani, Grover’s, Quantum SVM  
+- Public notebook collection: **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)**
 
 ### <img src="assets/rocket.gif" width="25px"> Featured Projects
-- **[i2p-ubuntu-quicksetup](https://github.com/graph90/i2p-ubuntu-quicksetup)** – Easy one-command installer for I2P on Ubuntu (**36+ clones on launch day!**)  
-- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly demo with dynamic binaries (**55+ clones**)  
-- **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted, uncensored AI assistant using Flask & LangChain (**85+ clones**)  
-- **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Real-time Bitcoin analytics (**57+ clones**)  
-- **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Fetch IMDb IDs to fix Jellyfin metadata (**50+ clones**)  
-- **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advice using basic strategy & card counting  
+- **[i2p-ubuntu-quicksetup](https://github.com/graph90/i2p-ubuntu-quicksetup)** – One-command installer for I2P on Ubuntu  
+- **[Metamorphic Engine](https://github.com/graph90/metamorphic-engine)** – Pure x86_64 assembly metamorphic code engine  
+- **[Private AI Companion](https://github.com/graph90/private-ai-companion)** – Self-hosted AI assistant using Flask and LangChain  
+- **[Bitcoin Dashboard](https://github.com/graph90/Bitcoin-Dashboard)** – Live Bitcoin analytics dashboard  
+- **[Jellyfin IMDb CLI](https://github.com/graph90/jellyfin-imdb-cli)** – Tool to fetch accurate IMDb IDs for Jellyfin  
+- **[Blackjack AI](https://github.com/graph90/BlackJackAi)** – AI-powered Blackjack advisor  
 
-
-### <img src="assets/link.gif" width="25px">  Links
+### <img src="assets/link.gif" width="25px"> Links
 <p align="center">
   <a href="https://graph90.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -52,9 +51,8 @@ I'm **Nathaniel (graph90)** a Software Developer and AI Developer passionate abo
 
 ### <img src="assets/bolt.gif" width="25px"> Fun Fact
 
-I build **independently-developed projects** that are adopted worldwide from **self-hosted AI tools** to **low-level assembly metamorphic engines** and **quantum computing experiments**, all while keeping things playful with Roblox games.  
+I build **independent projects** ranging from **self-hosted AI tools** to **metamorphic assembly engines** and **quantum computing experiments**, while keeping things playful with Roblox games.  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graph90&layout=compact&theme=radical"/>
 </p>
-
