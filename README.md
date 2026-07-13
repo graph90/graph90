@@ -103,8 +103,3 @@ Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutat
   </a>
 </p>
 
----
-
-### <img src="assets/bolt.gif" width="25px"> Fun Fact
-
-I build independent projects ranging from **hybrid assembly mutation engines** to **self-hosted AI tools** and **quantum computing experiments** — mostly because I like understanding how things work at every layer.
