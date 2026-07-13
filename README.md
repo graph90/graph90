@@ -11,7 +11,7 @@ I like understanding software from the metal up.
 - Low-level x86-64 Assembly + C integration  
 - Runtime binary mutation & metamorphic techniques  
 - System programming on Linux / BSD  
-- Self-hosted AI systems  
+- Self-hosted AI systems & local LLM agent tooling
 - Experimental quantum computing  
 - Backend & infrastructure engineering  
 
