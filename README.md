@@ -75,6 +75,15 @@ Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutat
 - **Blackjack AI** – AI-powered Blackjack advisor  
   https://github.com/graph90/BlackJackAi  
 
+- **OpenClaw Store** – Persistent SQLite planning + memory backend for OpenClaw agents running local LLMs.
+
+  - Built to improve long-running agent reliability with smaller local models
+  - Goal/task planning system with dependency tracking
+  - Persistent memory with importance and confidence scoring
+  - JSON-first interface designed for agent tool usage
+  - Tested with local 9B models including Ornith-1.0-9B-Uncensored-Abliterated-GGUF
+
+  https://github.com/graph90/openclaw-store
 ---
 
 ### <img src="assets/link.gif" width="25px"> Links
