@@ -84,6 +84,18 @@ Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutat
   - Tested with local 9B models including Ornith-1.0-9B-Uncensored-Abliterated-GGUF
 
   https://github.com/graph90/openclaw-store
+
+  - **Docker Quest** – Interactive terminal-based Docker learning game built in Python.
+
+  - Gamified Docker training simulator with missions, XP, streaks, and engineer levels
+  - Simulates common container workflows:
+    - Image management
+    - Container lifecycle operations
+    - Logs and debugging
+    - Build and deployment scenarios
+  - Designed to help developers learn Docker concepts through hands-on challenges
+
+  https://github.com/graph90/docker-quest
 ---
 
 ### <img src="assets/link.gif" width="25px"> Links
