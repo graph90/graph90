@@ -62,6 +62,18 @@ Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutat
 - **Repo:** https://github.com/graph90/metamorphic-engine-x64  
 
 ---
+- **Docker Quest** – Interactive terminal-based Docker learning game built in Python.
+
+  - Gamified Docker training simulator with missions, XP, streaks, and engineer levels
+  - Simulates common container workflows:
+    - Image management
+    - Container lifecycle operations
+    - Logs and debugging
+    - Build and deployment scenarios
+  - Designed to help developers learn Docker concepts through hands-on challenges
+
+  https://github.com/graph90/docker-quest
+
 
 - **Private AI Companion** – Self-hosted AI assistant using Flask and LangChain (**85+ clones first week**)  
   https://github.com/graph90/private-ai-companion  
@@ -82,20 +94,8 @@ Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutat
   - Persistent memory with importance and confidence scoring
   - JSON-first interface designed for agent tool usage
   - Tested with local 9B models including Ornith-1.0-9B-Uncensored-Abliterated-GGUF
+  
   https://github.com/graph90/openclaw-store
-
-
-  - **Docker Quest** – Interactive terminal-based Docker learning game built in Python.
-
-  - Gamified Docker training simulator with missions, XP, streaks, and engineer levels
-  - Simulates common container workflows:
-    - Image management
-    - Container lifecycle operations
-    - Logs and debugging
-    - Build and deployment scenarios
-  - Designed to help developers learn Docker concepts through hands-on challenges
-
-  https://github.com/graph90/docker-quest
 
 ---
 
