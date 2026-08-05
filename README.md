@@ -30,7 +30,7 @@ Many of my projects start with a simple question:
 "Can I build something that helps me understand or solve this?"
 
 I like combining:
-- Mathematical models
+- Math models
 - Automation
 - AI reasoning
 - Simulations
