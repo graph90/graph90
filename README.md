@@ -23,7 +23,21 @@ Anything I find useful, interesting, or fun gets shared here so others can learn
 * Backend and infrastructure engineering
 
 ---
+## How I Approach Projects
 
+Many of my projects start with a simple question:
+
+"Can I build a system that understands or solves this?"
+
+I like combining:
+- Mathematical models
+- Automation
+- AI reasoning
+- Simulations
+- Real world data
+
+The goal is not always a finished product. Sometimes the goal is understanding a concept deeply by building the thing itself.
+---
 ### Skills & Technologies
 <img src="assets/monkey.gif" width="200px">
 
