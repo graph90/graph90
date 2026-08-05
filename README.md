@@ -309,6 +309,49 @@ https://github.com/graph90/openclaw-store
 
 ---
 
+### 🔐 Transcoder
+
+A privacy-focused browser-based text and data conversion toolkit built from scratch using vanilla HTML, CSS, and JavaScript.
+
+Created to explore data formats, encoding systems, hashing algorithms, and client-side utilities while keeping all processing local to the user's browser.
+
+Explores:
+
+* Base64 encoding and decoding
+* Binary and hexadecimal conversions
+* Unicode and ASCII transformations
+* URL and HTML entity encoding
+* JSON formatting and validation
+* Cryptographic hashing
+* Automatic format detection
+
+Features:
+
+* Fully client-side processing
+* No uploads
+* No tracking
+* Offline capable
+* One-click copy and download tools
+* Responsive interface
+
+Built with:
+
+* HTML
+* CSS
+* Vanilla JavaScript
+
+No frameworks.
+No dependencies.
+No server processing.
+
+Repository:
+https://github.com/graph90/transcoder
+
+Live Demo:
+https://graph90.github.io/pages/transcoder.html
+
+---
+
 ### <img src="assets/link.gif" width="25px"> Links
 
 <p align="center">
