@@ -193,6 +193,48 @@ https://github.com/graph90/crypto-academy
 
 ---
 
+### 🧩 Rubik Cube 3D Simulator
+
+A lightweight 3D Rubik's Cube simulator built from scratch using vanilla HTML, CSS, and JavaScript.
+
+Created as an exploration into 3D rendering, spatial transformations, and interactive simulations without relying on external frameworks or game engines.
+
+The project models the cube using individual cubies and applies matrix-based rotations to recreate real cube movements directly in the browser.
+
+Explores:
+
+* 3D object representation using CSS transforms
+* Cubie-based state tracking
+* Matrix-based rotations
+* Interactive camera controls
+* Puzzle state simulation
+
+Features:
+
+* 2x2, 3x3, and 4x4 cube support
+* Real-time 3D rendering
+* Mouse orbit controls
+* Keyboard cube notation:
+  * U D L R F B
+* Scramble generator
+* Move counter
+* Timer
+* Responsive layout
+
+Built with:
+
+* HTML
+* CSS
+* Vanilla JavaScript
+
+No frameworks.
+No dependencies.
+
+Repository:
+https://github.com/graph90/rubik-cube-3d
+
+---
+
 ### 🤖 Private AI Companion
 
 A self-hosted AI assistant built with Flask and LangChain.
@@ -210,15 +252,6 @@ Explores:
 
 Repository:
 https://github.com/graph90/private-ai-companion
-
----
-
-### ₿ Bitcoin Dashboard
-
-A live Bitcoin analytics dashboard built while exploring cryptocurrency data, APIs, and visualization.
-
-Repository:
-https://github.com/graph90/Bitcoin-Dashboard
 
 ---
 
