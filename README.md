@@ -4,7 +4,7 @@ I'm Nathaniel (graph90), a Software Developer who enjoys exploring how software 
 
 This GitHub is a collection of tools, experiments, simulations, and projects created from curiosity, real problems, and ideas I wanted to explore further. Some projects are tools I actively use, some are learning experiments, and others are prototypes built to understand a concept more deeply.
 
-I like understanding software from the metal up by exploring the layers underneath: how systems execute, how security concepts work, how AI tools can be built privately, and how complex ideas can be turned into interactive experiences.
+I enjoy exploring the layers underneath software: how systems execute, how security concepts work, how AI tools can be built privately, and how complex ideas can be turned into interactive experiences.
 
 Anything I find useful, interesting, or fun gets shared here so others can learn from it, improve it, find problems I missed, or use it for their own projects.
 
@@ -27,7 +27,7 @@ Anything I find useful, interesting, or fun gets shared here so others can learn
 
 Many of my projects start with a simple question:
 
-"Can I build a system that understands or solves this?"
+"Can I build something that helps me understand or solve this?"
 
 I like combining:
 - Mathematical models
