@@ -2,7 +2,7 @@
 
 I'm Nathaniel (graph90), a Software Developer focused on low-level systems, security research, self-hosted AI tooling, quantum computing experiments, and building interactive learning systems.
 
-I like understanding software from the metal up — by building tools, simulations, and experiments that expose how systems work internally.
+I like understanding software from the metal up, by building tools, simulations, and experiments that expose how systems work internally.
 
 ---
 
