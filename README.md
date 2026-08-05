@@ -73,7 +73,21 @@ Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutat
   - Designed to help developers learn Docker concepts through hands-on challenges
 
   https://github.com/graph90/docker-quest
+---
+- **Crypto Academy** – Gamified cryptography learning platform built in Python.
 
+  - Interactive cipher training system with missions, XP progression, achievements, and unlockable techniques
+  - Teaches cryptography concepts through hands-on challenges instead of static tutorials
+  - Implements classical and modern crypto concepts:
+    - Caesar Cipher
+    - Atbash Cipher
+    - Vigenère Cipher
+    - XOR Encryption
+    - SHA-256 hashing concepts
+  - Modular architecture with separate cipher engines, player progression, save system, and UI layer
+
+  https://github.com/graph90/crypto-academy
+  ---
 
 - **Private AI Companion** – Self-hosted AI assistant using Flask and LangChain (**85+ clones first week**)  
   https://github.com/graph90/private-ai-companion  
