@@ -1,8 +1,8 @@
 ## Hi there <img src="assets/wave.gif" width="30px">
 
-I'm **Nathaniel (graph90)** — a Software Developer focused on **low-level systems, security research, self-hosted AI tooling, quantum computing experiments, and building educational software through games and simulations**.
+I'm **Nathaniel (graph90)** — a Software Developer focused on **low-level systems, security research, self-hosted AI tooling, quantum computing experiments, and building interactive learning systems**.
 
-I like understanding software from the metal up.
+I like understanding software from the metal up — by building tools, simulations, and experiments that expose how systems work internally.
 
 ---
 
