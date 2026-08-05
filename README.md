@@ -86,32 +86,63 @@ Some projects became tools I actively use. Others are explorations into concepts
 
 ---
 
-### 🧬 metamorphic-engine-x64 (v2)
+### 🧬 Metamorphic Engine (v1 → v2)
 
-A hybrid C / x86-64 Assembly experiment exploring runtime binary transformation and metamorphic techniques.
+A multi-stage exploration into binary transformation, x86-64 assembly, and runtime program mutation.
 
-Built to better understand how programs can modify and transform themselves at the binary level.
+This project started as an experiment to understand how programs can transform their own machine code while maintaining the same behavior. It evolved from a pure assembly prototype into a more reusable C and Assembly system designed for experimenting with runtime mutation techniques.
 
-Explores:
+---
 
-* Evolution from a pure NASM prototype into a reusable C-callable module
-* Runtime mutation passes:
+#### v1: Pure NASM x86-64 Prototype
 
-  * XOR
-  * ADD
-  * Rotations
+https://github.com/graph90/metamorphic-engine
+
+The original experiment written entirely in NASM x86-64 assembly.
+
+The goal was to explore how a program could modify its underlying instructions while still producing identical output.
+
+Explored:
+
+* Register shuffling
+* Dead code sequences that clean themselves up
+* Control-flow variation
+* Instruction permutation
+* Runtime modification of machine code
+
+Each execution produces the same visible result while the underlying binary structure changes.
+
+---
+
+#### v2: C + Assembly Evolution
+
+https://github.com/graph90/metamorphic-engine-x64
+
+The next iteration evolved the prototype into a reusable C-callable module.
+
+The focus shifted from a single demonstration program into a more flexible framework for experimenting with binary mutation techniques.
+
+Added:
+
+* C and x86-64 Assembly integration
+* Runtime mutation of arbitrary memory buffers
+* Position-independent design
+* Randomized mutation pipeline
+* Custom xorshift random number generator seeded through `rdtsc`
+* Additional mutation operations:
+
+  * XOR transformations
+  * ADD operations
+  * Bit rotations
   * Byte swapping
-* Custom xorshift RNG seeded through `rdtsc`
-* Position-independent code operating on arbitrary memory buffers
-* Generating unique binary output while preserving execution flow
+
+The project explores how software can transform at the binary level while preserving execution flow, providing a hands-on way to understand low-level program behavior, machine instructions, and runtime modification.
 
 Community response:
 
 * 59 clones + 2 stars within 6 days
 * Shared on LinkedIn with 13k+ organic impressions
 
-Repository:
-https://github.com/graph90/metamorphic-engine-x64
 
 ---
 
