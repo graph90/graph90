@@ -67,7 +67,7 @@ Some projects became tools I actively use. Others are explorations into concepts
 
 ---
 
-## Quantum Computing Experiments
+## Quantum Computing
 
 Exploring quantum computing concepts through hands-on implementations and educational notebooks.
 
