@@ -58,6 +58,15 @@ The goal is not always a finished product. Sometimes the goal is understanding a
 
 ---
 
+## <img src="assets/rocket.gif" width="25px"> Projects & Experiments
+
+A collection of tools, simulations, and experiments built from curiosity, practical problems, and ideas I wanted to explore further.
+
+Some projects became tools I actively use. Others are explorations into concepts, technologies, or possible solutions.
+
+
+---
+
 ## Quantum Computing Experiments
 
 Exploring quantum computing concepts through hands-on implementations and educational notebooks.
@@ -75,14 +84,6 @@ Projects include:
 
 Public notebook collection:
 **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)**
-
----
-
-## <img src="assets/rocket.gif" width="25px"> Projects & Experiments
-
-A collection of tools, simulations, and experiments built from curiosity, practical problems, and ideas I wanted to explore further.
-
-Some projects became tools I actively use. Others are explorations into concepts, technologies, or possible solutions.
 
 ---
 
