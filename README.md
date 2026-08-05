@@ -43,81 +43,179 @@ Anything I find useful, interesting, or fun gets shared here so others can learn
 
 ---
 
-## Quantum Computing Projects
+## Quantum Computing Experiments
 
-- Qiskit and PennyLane experiments with educational Jupyter notebooks and tutorials  
-- Algorithms implemented: Deutsch–Jozsa, Bernstein–Vazirani, Grover’s, Quantum SVM  
-- Public notebook collection: **[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)**  
+Exploring quantum computing concepts through hands-on implementations and educational notebooks.
+
+Projects include:
+
+* Qiskit and PennyLane experiments
+* Interactive Jupyter notebooks and tutorials
+* Algorithms explored:
+
+  * Deutsch–Jozsa
+  * Bernstein–Vazirani
+  * Grover's Algorithm
+  * Quantum Support Vector Machines
+
+Public notebook collection:
+**[Quantum Computing Projects](https://github.com/graph90/Quantum-computing)**
+
+---
+
+## <img src="assets/rocket.gif" width="25px"> Projects & Experiments
+
+A collection of tools, simulations, and experiments built from curiosity, practical problems, and ideas I wanted to explore further.
+
+Some projects became tools I actively use. Others are explorations into concepts, technologies, or possible solutions.
 
 ---
 
-### <img src="assets/rocket.gif" width="25px"> Featured Projects
+### 🧬 metamorphic-engine-x64 (v2)
 
-#### metamorphic-engine-x64 (v2)
+A hybrid C / x86-64 Assembly experiment exploring runtime binary transformation and metamorphic techniques.
 
-Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutation.
+Built to better understand how programs can modify and transform themselves at the binary level.
 
-- Evolution of an original pure NASM engine (v1) into a reusable C-callable module (v2)  
-- Randomized mutation passes: XOR, ADD, rotations, byte swaps  
-- Custom xorshift RNG seeded via `rdtsc`  
-- Position-independent design operating on arbitrary memory buffers  
-- Produces unique binary output every execution while preserving program flow  
+Explores:
 
-📈 **59 clones + 2 stars in under 6 days**  
- Shared on LinkedIn with **13k+ organic impressions**
+* Evolution from a pure NASM prototype into a reusable C-callable module
+* Runtime mutation passes:
 
-- **Repo:** https://github.com/graph90/metamorphic-engine-x64  
+  * XOR
+  * ADD
+  * Rotations
+  * Byte swapping
+* Custom xorshift RNG seeded through `rdtsc`
+* Position-independent code operating on arbitrary memory buffers
+* Generating unique binary output while preserving execution flow
+
+Community response:
+
+* 59 clones + 2 stars within 6 days
+* Shared on LinkedIn with 13k+ organic impressions
+
+Repository:
+https://github.com/graph90/metamorphic-engine-x64
 
 ---
-- **Docker Quest** – Interactive terminal-based Docker learning game built in Python.
 
-  - Gamified Docker training simulator with missions, XP, streaks, and engineer levels
-  - Simulates common container workflows:
-    - Image management
-    - Container lifecycle operations
-    - Logs and debugging
-    - Build and deployment scenarios
-  - Designed to help developers learn Docker concepts through hands-on challenges
+### 🐳 Docker Quest
 
-  https://github.com/graph90/docker-quest
+An interactive terminal-based Docker learning game built in Python.
+
+Created to explore whether technical concepts could be taught more effectively through hands-on simulation instead of traditional tutorials.
+
+Features:
+
+* Missions, XP progression, streaks, and engineer levels
+* Simulated Docker workflows:
+
+  * Image management
+  * Container lifecycle
+  * Logs and debugging
+  * Build and deployment scenarios
+
+Repository:
+https://github.com/graph90/docker-quest
+
 ---
-- **Crypto Academy** – Gamified cryptography learning platform built in Python.
 
-  - Interactive cipher training system with missions, XP progression, achievements, and unlockable techniques
-  - Teaches cryptography concepts through hands-on challenges instead of static tutorials
-  - Implements classical and modern crypto concepts:
-    - Caesar Cipher
-    - Atbash Cipher
-    - Vigenère Cipher
-    - XOR Encryption
-    - SHA-256 hashing concepts
-  - Modular architecture with separate cipher engines, player progression, save system, and UI layer
+### 🔐 Crypto Academy
 
-  https://github.com/graph90/crypto-academy
-  
-  ---
+A gamified cryptography learning platform built in Python.
 
-- **Private AI Companion** – Self-hosted AI assistant using Flask and LangChain (**85+ clones first week**)  
-  https://github.com/graph90/private-ai-companion  
+Built to explore how cryptographic concepts could be taught through interaction rather than memorization.
 
-- **Bitcoin Dashboard** – Live Bitcoin analytics dashboard (**57+ clones first two days**)  
-  https://github.com/graph90/Bitcoin-Dashboard  
+Explores:
 
-- **Jellyfin IMDb CLI** – Tool to fetch accurate IMDb IDs for Jellyfin (**50+ clones first day**)  
-  https://github.com/graph90/jellyfin-imdb-cli  
+* Caesar Cipher
+* Atbash Cipher
+* Vigenère Cipher
+* XOR encryption
+* SHA-256 hashing concepts
 
-- **Blackjack AI** – AI-powered Blackjack advisor  
-  https://github.com/graph90/BlackJackAi  
+Features:
 
-- **OpenClaw Store** – Persistent SQLite planning + memory backend for OpenClaw agents running local LLMs.
+* Missions and progression system
+* Achievements and unlockable techniques
+* Modular cipher engine architecture
+* Save system and UI layer
 
-  - Built to improve long-running agent reliability with smaller local models
-  - Goal/task planning system with dependency tracking
-  - Persistent memory with importance and confidence scoring
-  - JSON-first interface designed for agent tool usage
-  - Tested with local 9B models including Ornith-1.0-9B-Uncensored-Abliterated-GGUF
-  
-  https://github.com/graph90/openclaw-store
+Repository:
+https://github.com/graph90/crypto-academy
+
+---
+
+### 🤖 Private AI Companion
+
+A self-hosted AI assistant built with Flask and LangChain.
+
+Created after seeing growing concerns around private conversations and sensitive data being stored by centralized AI providers.
+
+The goal was to explore a local-first alternative where AI interactions stay under the user's control.
+
+Explores:
+
+* Local LLM workflows
+* LangChain architectures
+* Retrieval-based AI systems
+* Private AI tooling
+
+Repository:
+https://github.com/graph90/private-ai-companion
+
+---
+
+### ₿ Bitcoin Dashboard
+
+A live Bitcoin analytics dashboard built while exploring cryptocurrency data, APIs, and visualization.
+
+Repository:
+https://github.com/graph90/Bitcoin-Dashboard
+
+---
+
+### 🎬 Jellyfin IMDb CLI
+
+A utility created to solve a real workflow issue with managing accurate IMDb metadata for Jellyfin libraries.
+
+Built because I needed the tool myself, then shared it so others could solve the same problem.
+
+Repository:
+https://github.com/graph90/jellyfin-imdb-cli
+
+---
+
+### ♠ Blackjack AI
+
+An AI-powered Blackjack advisor built to explore decision-making systems and game strategy modeling.
+
+Repository:
+https://github.com/graph90/BlackJackAi
+
+---
+
+### 🧠 OpenClaw Store
+
+A persistent SQLite planning and memory backend for local AI agents.
+
+Originally created to improve reliability when running smaller local models, and became a tool used in my own AI workflows.
+
+Explores:
+
+* Long-term agent memory
+* Task planning
+* Dependency tracking
+* Importance and confidence scoring
+* JSON-first tool interfaces for AI agents
+
+Tested with local models including:
+
+* Ornith-1.0-9B-Uncensored-Abliterated-GGUF
+
+Repository:
+https://github.com/graph90/openclaw-store
 
 ---
 
