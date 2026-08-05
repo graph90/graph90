@@ -37,6 +37,7 @@ I like combining:
 - Real world data
 
 The goal is not always a finished product. Sometimes the goal is understanding a concept deeply by building the thing itself.
+
 ---
 ### Skills & Technologies
 <img src="assets/monkey.gif" width="200px">
