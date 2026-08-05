@@ -6,7 +6,7 @@ I like understanding software from the metal up, by building tools, simulations,
 
 ---
 
-## 🧠 Core Focus
+## Core Focus
 
 - Low-level x86-64 Assembly + C integration  
 - Runtime binary mutation & metamorphic techniques  
@@ -36,7 +36,7 @@ I like understanding software from the metal up, by building tools, simulations,
 
 ---
 
-## ⚛ Quantum Computing Projects
+## Quantum Computing Projects
 
 - Qiskit and PennyLane experiments with educational Jupyter notebooks and tutorials  
 - Algorithms implemented: Deutsch–Jozsa, Bernstein–Vazirani, Grover’s, Quantum SVM  
@@ -46,7 +46,7 @@ I like understanding software from the metal up, by building tools, simulations,
 
 ### <img src="assets/rocket.gif" width="25px"> Featured Projects
 
-#### 🧬 metamorphic-engine-x64 (v2)
+#### metamorphic-engine-x64 (v2)
 
 Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutation.
 
@@ -57,7 +57,7 @@ Hybrid C / x86-64 assembly metamorphic engine demonstrating runtime binary mutat
 - Produces unique binary output every execution while preserving program flow  
 
 📈 **59 clones + 2 stars in under 6 days**  
-📣 Shared on LinkedIn with **13k+ organic impressions**
+ Shared on LinkedIn with **13k+ organic impressions**
 
 - **Repo:** https://github.com/graph90/metamorphic-engine-x64  
 
