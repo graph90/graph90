@@ -1,19 +1,26 @@
 ## Hi there <img src="assets/wave.gif" width="30px">
 
-I'm Nathaniel (graph90), a Software Developer focused on low-level systems, security research, self-hosted AI tooling, quantum computing experiments, and building interactive learning systems.
+I'm Nathaniel (graph90), a Software Developer who enjoys exploring how software works by building things from the ground up.
 
-I like understanding software from the metal up, by building tools, simulations, and experiments that expose how systems work internally.
+This GitHub is a collection of tools, experiments, simulations, and projects created from curiosity, real problems, and ideas I wanted to explore further. Some projects are tools I actively use, some are learning experiments, and others are prototypes built to understand a concept more deeply.
+
+I like understanding software from the metal up by exploring the layers underneath: how systems execute, how security concepts work, how AI tools can be built privately, and how complex ideas can be turned into interactive experiences.
+
+Anything I find useful, interesting, or fun gets shared here so others can learn from it, improve it, find problems I missed, or use it for their own projects.
 
 ---
 
 ## Core Focus
 
-- Low-level x86-64 Assembly + C integration  
-- Runtime binary mutation & metamorphic techniques  
-- System programming on Linux / BSD  
-- Self-hosted AI systems & local LLM agent tooling
-- Experimental quantum computing  
-- Backend & infrastructure engineering  
+* Low-level systems programming and x86-64 Assembly + C integration
+* Security research and exploring how software behaves internally
+* Runtime binary transformation and experimental techniques
+* System programming on Linux / BSD
+* Self-hosted AI systems and local LLM tooling
+* Privacy-focused software and user-controlled technology
+* Interactive learning systems, simulations, and educational tools
+* Experimental quantum computing
+* Backend and infrastructure engineering
 
 ---
 
