@@ -189,7 +189,17 @@ https://github.com/graph90/jellyfin-imdb-cli
 
 ### ♠ Blackjack AI
 
-An AI-powered Blackjack advisor built to explore decision-making systems and game strategy modeling.
+An AI-assisted Blackjack analysis system built to explore decision engines, probability calculations, and AI-assisted reasoning.
+
+The project combines traditional Blackjack mathematics with an LLM layer that evaluates game situations using calculated inputs such as:
+- Basic strategy decisions
+- Card counting information
+- Probability analysis
+- Current game state
+
+Built as a local experiment into how deterministic algorithms and AI reasoning can work together.
+
+The system currently runs locally and was designed with future integrations in mind as suitable APIs and environments become available.
 
 Repository:
 https://github.com/graph90/BlackJackAi
