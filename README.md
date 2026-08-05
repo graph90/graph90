@@ -315,6 +315,8 @@ A privacy-focused browser-based text and data conversion toolkit built from scra
 
 Created to explore data formats, encoding systems, hashing algorithms, and client-side utilities while keeping all processing local to the user's browser.
 
+The live demo runs directly in your browser. For a completely offline experience, download or clone the repository and open `index.html` locally.
+
 Explores:
 
 * Base64 encoding and decoding
