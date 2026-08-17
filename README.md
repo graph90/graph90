@@ -146,6 +146,68 @@ Community response:
 
 
 ---
+## 🌐 Privacy & Agent Networking
+
+A few of my projects explore privacy-focused networking from
+different layers of the stack — from setting up I2P on Linux
+to giving local AI agents access to multiple network transports.
+
+### I2P Ubuntu Quick Setup
+
+A small Bash utility that automates the installation and initial
+setup of I2P on Ubuntu.
+
+Created as a way to make getting an I2P environment running
+simpler without having to manually work through the installation
+steps.
+
+Repository:
+https://github.com/graph90/i2p-ubuntu-quicksetup
+
+---
+
+### OpenClaw Darknet Fetch
+
+A newer experiment that builds on the same idea from the
+AI-agent side.
+
+A small Python fetcher designed for OpenClaw that provides a
+single interface for:
+
+* Normal clearnet HTTP/HTTPS
+* Tor via SOCKS5
+* I2P via HTTP proxy
+
+Tested on Linux with OpenClaw and a local Ornith 9B model.
+
+The interesting part for me is the progression:
+https://github.com/graph90/openclaw-darknet-fetch
+
+
+---
+
+### 🧠 OpenClaw Store
+
+A persistent SQLite planning and memory backend for local AI agents.
+
+Originally created to improve reliability when running smaller local models, and became a tool used in my own AI workflows.
+
+Explores:
+
+* Long-term agent memory
+* Task planning
+* Dependency tracking
+* Importance and confidence scoring
+* JSON-first tool interfaces for AI agents
+
+Tested with local models including:
+
+* Ornith-1.0-9B-Uncensored-Abliterated-GGUF
+
+Repository:
+https://github.com/graph90/openclaw-store
+
+---
 
 ### 🐳 Docker Quest
 
@@ -283,29 +345,6 @@ The system currently runs locally and was designed with future integrations in m
 
 Repository:
 https://github.com/graph90/BlackJackAi
-
----
-
-### 🧠 OpenClaw Store
-
-A persistent SQLite planning and memory backend for local AI agents.
-
-Originally created to improve reliability when running smaller local models, and became a tool used in my own AI workflows.
-
-Explores:
-
-* Long-term agent memory
-* Task planning
-* Dependency tracking
-* Importance and confidence scoring
-* JSON-first tool interfaces for AI agents
-
-Tested with local models including:
-
-* Ornith-1.0-9B-Uncensored-Abliterated-GGUF
-
-Repository:
-https://github.com/graph90/openclaw-store
 
 ---
 
