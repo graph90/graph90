@@ -180,7 +180,7 @@ single interface for:
 
 Tested on Linux with OpenClaw and a local Ornith 9B model.
 
-The interesting part for me is the progression:
+Repository:
 https://github.com/graph90/openclaw-darknet-fetch
 
 
